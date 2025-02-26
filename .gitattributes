@@ -1,0 +1,2 @@
+biggirs filter=lfs diff=lfs merge=lfs -text
+biggi filter=lfs diff=lfs merge=lfs -text
